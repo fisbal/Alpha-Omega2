@@ -1,0 +1,9 @@
+{
+  "appId": "com.martinb.alphaomega",
+  "appName": "Alpha & Omega",
+  "webDir": "../app",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}

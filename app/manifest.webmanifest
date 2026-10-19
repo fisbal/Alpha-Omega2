@@ -1,0 +1,30 @@
+{
+ "name": "Alpha & Omega — New Testament Study",
+ "short_name": "Alpha & Omega",
+ "description": "A deep, bilingual (EN/FR) New Testament study app — KJV/WEB and Louis Segond/Darby, verse-by-verse commentary, and an honest investigation into the historical Jesus.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#14151D",
+ "theme_color": "#14151D",
+ "lang": "en",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
